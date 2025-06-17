@@ -34,10 +34,11 @@ Nextjs Padrão e incluir:
 - Lucide
 - Ui ShadCN
 
+Desenvolvido por @GabrielaSouz
+
 ## Você pode executar o projeto localmente com:
 
 ```bash
 npm install
 npm run dev
 
-Desenvolvido por @GabrielaSouz
